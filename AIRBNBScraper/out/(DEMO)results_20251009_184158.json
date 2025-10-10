@@ -1,0 +1,1372 @@
+{
+  "Unit 1 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-09": "checkin_available",
+      "2025-10-10": "checkout_only",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkout_only",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkout_only",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkout_only"
+    },
+    "checkins": [
+      "2025-10-09",
+      "2025-10-16",
+      "2025-10-22",
+      "2025-10-24",
+      "2025-10-30"
+    ],
+    "checkouts": [
+      "2025-10-10",
+      "2025-10-17",
+      "2025-10-23",
+      "2025-10-25",
+      "2025-10-31"
+    ],
+    "ranges": [
+      [
+        "2025-10-09",
+        "2025-10-10"
+      ],
+      [
+        "2025-10-16",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-22",
+        "2025-10-23"
+      ],
+      [
+        "2025-10-24",
+        "2025-10-25"
+      ],
+      [
+        "2025-10-30",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": false
+  },
+  "Unit 2 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837134855123444418?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkout_only",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-20",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-21"
+    ],
+    "ranges": [
+      [
+        "2025-10-20",
+        "2025-10-21"
+      ],
+      [
+        "2025-10-26",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 3 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837287812536613417?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-17",
+      "2025-10-21"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-21"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 4 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-09": "checkin_available",
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkin_available",
+      "2025-10-12": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkout_only",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkout_only"
+    },
+    "checkins": [
+      "2025-10-09",
+      "2025-10-10",
+      "2025-10-11",
+      "2025-10-13",
+      "2025-10-15",
+      "2025-10-23",
+      "2025-10-28"
+    ],
+    "checkouts": [
+      "2025-10-12",
+      "2025-10-14",
+      "2025-10-16",
+      "2025-10-24",
+      "2025-10-29"
+    ],
+    "ranges": [
+      [
+        "2025-10-09",
+        "2025-10-12"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-23",
+        "2025-10-24"
+      ],
+      [
+        "2025-10-28",
+        "2025-10-29"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": false
+  },
+  "Unit 5 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/839225604600008884?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkout_only",
+      "2025-10-25": "checkin_available",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkout_only",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-12",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-25",
+      "2025-10-26",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-16",
+      "2025-10-24",
+      "2025-10-27"
+    ],
+    "ranges": [
+      [
+        "2025-10-12",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-24"
+      ],
+      [
+        "2025-10-25",
+        "2025-10-27"
+      ],
+      [
+        "2025-10-30",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 6 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/834928764153318041?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-09": "checkin_available",
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkin_available",
+      "2025-10-18": "checkout_only",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-09",
+      "2025-10-10",
+      "2025-10-12",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-17",
+      "2025-10-21",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-18",
+      "2025-10-22"
+    ],
+    "ranges": [
+      [
+        "2025-10-09",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-12",
+        "2025-10-18"
+      ],
+      [
+        "2025-10-21",
+        "2025-10-22"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 7 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/843628361710698988?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkin_available",
+      "2025-10-18": "checkin_available",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkout_only",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-17",
+      "2025-10-18",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-25"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-25"
+      ],
+      [
+        "2025-10-26",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 8 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/843686495184089814?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkout_only",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkout_only",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkout_only"
+    },
+    "checkins": [
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-22",
+      "2025-10-29",
+      "2025-10-30"
+    ],
+    "checkouts": [
+      "2025-10-21",
+      "2025-10-23",
+      "2025-10-31"
+    ],
+    "ranges": [
+      [
+        "2025-10-19",
+        "2025-10-21"
+      ],
+      [
+        "2025-10-22",
+        "2025-10-23"
+      ],
+      [
+        "2025-10-29",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": false
+  },
+  "Unit 9 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837818923494827841?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkin_available",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-12",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-25",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-13",
+      "2025-10-17"
+    ],
+    "ranges": [
+      [
+        "2025-10-12",
+        "2025-10-13"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 10 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837824983976858518?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkout_only",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-12",
+      "2025-10-13",
+      "2025-10-19",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-14",
+      "2025-10-20",
+      "2025-10-24"
+    ],
+    "ranges": [
+      [
+        "2025-10-12",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-20"
+      ],
+      [
+        "2025-10-21",
+        "2025-10-24"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 11 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkout_only",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-12",
+      "2025-10-15",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-13",
+      "2025-10-16",
+      "2025-10-22"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-12",
+        "2025-10-13"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-22"
+      ],
+      [
+        "2025-10-26",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 12 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837832037492645038?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-11": "checkin_available",
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkout_only",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-11",
+      "2025-10-12",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-13",
+      "2025-10-17",
+      "2025-10-22"
+    ],
+    "ranges": [
+      [
+        "2025-10-11",
+        "2025-10-13"
+      ],
+      [
+        "2025-10-14",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-22"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 13 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkout_only",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkout_only",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-13",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-14",
+      "2025-10-17",
+      "2025-10-21",
+      "2025-10-25"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-21"
+      ],
+      [
+        "2025-10-22",
+        "2025-10-25"
+      ],
+      [
+        "2025-10-26",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 14 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837847629327594904?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-13",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-14",
+      "2025-10-17"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 15 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/843724944043774069?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-13",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-14",
+      "2025-10-23"
+    ],
+    "ranges": [
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-19",
+        "2025-10-23"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 16 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/837853174748563752?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-15",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-16"
+    ],
+    "ranges": [
+      [
+        "2025-10-15",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-30",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 17 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/841432976860428383?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkout_only",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-13",
+      "2025-10-23",
+      "2025-10-27",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-14",
+      "2025-10-24",
+      "2025-10-28"
+    ],
+    "ranges": [
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-23",
+        "2025-10-24"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-28"
+      ],
+      [
+        "2025-10-31",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 18 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkout_only",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkout_only",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-20",
+      "2025-10-29",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-16",
+      "2025-10-21",
+      "2025-10-30"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-14",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-20",
+        "2025-10-21"
+      ],
+      [
+        "2025-10-29",
+        "2025-10-30"
+      ],
+      [
+        "2025-10-31",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 19 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/841459626649520263?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkout_only",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkout_only",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-13",
+      "2025-10-15",
+      "2025-10-22",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-14",
+      "2025-10-16",
+      "2025-10-23"
+    ],
+    "ranges": [
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-16"
+      ],
+      [
+        "2025-10-22",
+        "2025-10-23"
+      ],
+      [
+        "2025-10-27",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 23 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/1234208300595681725?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-09": "checkin_available",
+      "2025-10-10": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only"
+    },
+    "checkins": [
+      "2025-10-09",
+      "2025-10-13"
+    ],
+    "checkouts": [
+      "2025-10-10",
+      "2025-10-14"
+    ],
+    "ranges": [
+      [
+        "2025-10-09",
+        "2025-10-10"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": false
+  },
+  "Unit 24 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/1477787339981568921?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-10": "checkin_available",
+      "2025-10-11": "checkout_only",
+      "2025-10-12": "checkin_available",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkin_available",
+      "2025-10-18": "checkin_available",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkout_only",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkin_available",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-10",
+      "2025-10-12",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-17",
+      "2025-10-18",
+      "2025-10-19",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-25",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-11",
+      "2025-10-20"
+    ],
+    "ranges": [
+      [
+        "2025-10-10",
+        "2025-10-11"
+      ],
+      [
+        "2025-10-12",
+        "2025-10-20"
+      ],
+      [
+        "2025-10-21",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 25 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/1477799005376636955?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-09": "checkin_available",
+      "2025-10-10": "checkout_only",
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkin_available",
+      "2025-10-18": "checkin_available",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkin_available",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-09",
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-17",
+      "2025-10-18",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-25",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-10"
+    ],
+    "ranges": [
+      [
+        "2025-10-09",
+        "2025-10-10"
+      ],
+      [
+        "2025-10-13",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 26 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/1477804151840607052?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkin_available",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkout_only",
+      "2025-10-18": "checkin_available",
+      "2025-10-19": "checkin_available",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkout_only",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-13",
+      "2025-10-14",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-18",
+      "2025-10-19",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-17",
+      "2025-10-24"
+    ],
+    "ranges": [
+      [
+        "2025-10-13",
+        "2025-10-17"
+      ],
+      [
+        "2025-10-18",
+        "2025-10-24"
+      ],
+      [
+        "2025-10-26",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  },
+  "Unit 27 Maui Ohana Modern Studio": {
+    "url": "https://www.airbnb.com/rooms/1477808444041599408?check_in=2025-10-09&check_out=2025-10-11",
+    "start": "2025-10-09",
+    "end": "2025-10-31",
+    "states": {
+      "2025-10-13": "checkin_available",
+      "2025-10-14": "checkout_only",
+      "2025-10-15": "checkin_available",
+      "2025-10-16": "checkin_available",
+      "2025-10-17": "checkin_available",
+      "2025-10-18": "checkin_available",
+      "2025-10-19": "checkout_only",
+      "2025-10-20": "checkin_available",
+      "2025-10-21": "checkin_available",
+      "2025-10-22": "checkin_available",
+      "2025-10-23": "checkin_available",
+      "2025-10-24": "checkin_available",
+      "2025-10-25": "checkin_available",
+      "2025-10-26": "checkin_available",
+      "2025-10-27": "checkin_available",
+      "2025-10-28": "checkin_available",
+      "2025-10-29": "checkin_available",
+      "2025-10-30": "checkin_available",
+      "2025-10-31": "checkin_available"
+    },
+    "checkins": [
+      "2025-10-13",
+      "2025-10-15",
+      "2025-10-16",
+      "2025-10-17",
+      "2025-10-18",
+      "2025-10-20",
+      "2025-10-21",
+      "2025-10-22",
+      "2025-10-23",
+      "2025-10-24",
+      "2025-10-25",
+      "2025-10-26",
+      "2025-10-27",
+      "2025-10-28",
+      "2025-10-29",
+      "2025-10-30",
+      "2025-10-31"
+    ],
+    "checkouts": [
+      "2025-10-14",
+      "2025-10-19"
+    ],
+    "ranges": [
+      [
+        "2025-10-13",
+        "2025-10-14"
+      ],
+      [
+        "2025-10-15",
+        "2025-10-19"
+      ],
+      [
+        "2025-10-20",
+        "2025-10-31"
+      ]
+    ],
+    "all_move_in": false,
+    "end_day_available": true
+  }
+}

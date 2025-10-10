@@ -1,0 +1,12 @@
+TZ=America/Phoenix
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Optional knobs (override via `docker run -e ...`)
+HEADLESS=1
+WINDOW_DAYS=14
+EMAIL_NAME=Client
+
+# Run every Sunday at 08:00 (0 = Sunday)
+0 8 * * 0 cd /app && /usr/local/bin/python -u AirBNBScraper.py >> /var/log/airbnb.log 2>&1
+

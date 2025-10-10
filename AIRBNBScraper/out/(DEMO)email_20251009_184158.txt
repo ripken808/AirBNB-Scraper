@@ -1,0 +1,163 @@
+===== EMAIL PREVIEW =====
+
+Dear Client,
+
+We have availabilities on the following properties:
+
+Unit 1 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-09 → 2025-10-10  (https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-09&check_out=2025-10-10)
+  • 2025-10-16 → 2025-10-17  (https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-16&check_out=2025-10-17)
+  • 2025-10-22 → 2025-10-23  (https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-22&check_out=2025-10-23)
+  • 2025-10-24 → 2025-10-25  (https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-24&check_out=2025-10-25)
+  • 2025-10-30 → 2025-10-31  (https://www.airbnb.com/rooms/819453392249281180?check_in=2025-10-30&check_out=2025-10-31)
+
+Unit 2 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-20 → 2025-10-21  (https://www.airbnb.com/rooms/837134855123444418?check_in=2025-10-20&check_out=2025-10-21)
+  • 2025-10-26 → 2025-10-31  (https://www.airbnb.com/rooms/837134855123444418?check_in=2025-10-26&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 3 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/837287812536613417?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-13 → 2025-10-17  (https://www.airbnb.com/rooms/837287812536613417?check_in=2025-10-13&check_out=2025-10-17)
+  • 2025-10-19 → 2025-10-21  (https://www.airbnb.com/rooms/837287812536613417?check_in=2025-10-19&check_out=2025-10-21)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/837287812536613417?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 4 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-09 → 2025-10-12  (https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-09&check_out=2025-10-12)
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-15 → 2025-10-16  (https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-15&check_out=2025-10-16)
+  • 2025-10-23 → 2025-10-24  (https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-23&check_out=2025-10-24)
+  • 2025-10-28 → 2025-10-29  (https://www.airbnb.com/rooms/837807882666931555?check_in=2025-10-28&check_out=2025-10-29)
+
+Unit 5 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-12 → 2025-10-16  (https://www.airbnb.com/rooms/839225604600008884?check_in=2025-10-12&check_out=2025-10-16)
+  • 2025-10-19 → 2025-10-24  (https://www.airbnb.com/rooms/839225604600008884?check_in=2025-10-19&check_out=2025-10-24)
+  • 2025-10-25 → 2025-10-27  (https://www.airbnb.com/rooms/839225604600008884?check_in=2025-10-25&check_out=2025-10-27)
+  • 2025-10-30 → 2025-10-31  (https://www.airbnb.com/rooms/839225604600008884?check_in=2025-10-30&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 6 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-09 → 2025-10-11  (https://www.airbnb.com/rooms/834928764153318041?check_in=2025-10-09&check_out=2025-10-11)
+  • 2025-10-12 → 2025-10-18  (https://www.airbnb.com/rooms/834928764153318041?check_in=2025-10-12&check_out=2025-10-18)
+  • 2025-10-21 → 2025-10-22  (https://www.airbnb.com/rooms/834928764153318041?check_in=2025-10-21&check_out=2025-10-22)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/834928764153318041?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 7 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/843628361710698988?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-13 → 2025-10-25  (https://www.airbnb.com/rooms/843628361710698988?check_in=2025-10-13&check_out=2025-10-25)
+  • 2025-10-26 → 2025-10-31  (https://www.airbnb.com/rooms/843628361710698988?check_in=2025-10-26&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 8 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-19 → 2025-10-21  (https://www.airbnb.com/rooms/843686495184089814?check_in=2025-10-19&check_out=2025-10-21)
+  • 2025-10-22 → 2025-10-23  (https://www.airbnb.com/rooms/843686495184089814?check_in=2025-10-22&check_out=2025-10-23)
+  • 2025-10-29 → 2025-10-31  (https://www.airbnb.com/rooms/843686495184089814?check_in=2025-10-29&check_out=2025-10-31)
+
+Unit 9 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-12 → 2025-10-13  (https://www.airbnb.com/rooms/837818923494827841?check_in=2025-10-12&check_out=2025-10-13)
+  • 2025-10-15 → 2025-10-17  (https://www.airbnb.com/rooms/837818923494827841?check_in=2025-10-15&check_out=2025-10-17)
+  • 2025-10-19 → 2025-10-31  (https://www.airbnb.com/rooms/837818923494827841?check_in=2025-10-19&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 10 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-12 → 2025-10-14  (https://www.airbnb.com/rooms/837824983976858518?check_in=2025-10-12&check_out=2025-10-14)
+  • 2025-10-19 → 2025-10-20  (https://www.airbnb.com/rooms/837824983976858518?check_in=2025-10-19&check_out=2025-10-20)
+  • 2025-10-21 → 2025-10-24  (https://www.airbnb.com/rooms/837824983976858518?check_in=2025-10-21&check_out=2025-10-24)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/837824983976858518?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 11 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-12 → 2025-10-13  (https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-12&check_out=2025-10-13)
+  • 2025-10-15 → 2025-10-16  (https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-15&check_out=2025-10-16)
+  • 2025-10-19 → 2025-10-22  (https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-19&check_out=2025-10-22)
+  • 2025-10-26 → 2025-10-31  (https://www.airbnb.com/rooms/837242389710289631?check_in=2025-10-26&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 12 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-11 → 2025-10-13  (https://www.airbnb.com/rooms/837832037492645038?check_in=2025-10-11&check_out=2025-10-13)
+  • 2025-10-14 → 2025-10-17  (https://www.airbnb.com/rooms/837832037492645038?check_in=2025-10-14&check_out=2025-10-17)
+  • 2025-10-19 → 2025-10-22  (https://www.airbnb.com/rooms/837832037492645038?check_in=2025-10-19&check_out=2025-10-22)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/837832037492645038?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 13 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-15 → 2025-10-17  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-15&check_out=2025-10-17)
+  • 2025-10-19 → 2025-10-21  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-19&check_out=2025-10-21)
+  • 2025-10-22 → 2025-10-25  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-22&check_out=2025-10-25)
+  • 2025-10-26 → 2025-10-31  (https://www.airbnb.com/rooms/837841729797836174?check_in=2025-10-26&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 14 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/837847629327594904?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/837847629327594904?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-15 → 2025-10-17  (https://www.airbnb.com/rooms/837847629327594904?check_in=2025-10-15&check_out=2025-10-17)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/837847629327594904?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 15 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/843724944043774069?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-19 → 2025-10-23  (https://www.airbnb.com/rooms/843724944043774069?check_in=2025-10-19&check_out=2025-10-23)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/843724944043774069?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 16 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-15 → 2025-10-16  (https://www.airbnb.com/rooms/837853174748563752?check_in=2025-10-15&check_out=2025-10-16)
+  • 2025-10-30 → 2025-10-31  (https://www.airbnb.com/rooms/837853174748563752?check_in=2025-10-30&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 17 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/841432976860428383?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-23 → 2025-10-24  (https://www.airbnb.com/rooms/841432976860428383?check_in=2025-10-23&check_out=2025-10-24)
+  • 2025-10-27 → 2025-10-28  (https://www.airbnb.com/rooms/841432976860428383?check_in=2025-10-27&check_out=2025-10-28)
+  • 2025-10-31 → 2025-10-31  (https://www.airbnb.com/rooms/841432976860428383?check_in=2025-10-31&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 18 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-14 → 2025-10-16  (https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-14&check_out=2025-10-16)
+  • 2025-10-20 → 2025-10-21  (https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-20&check_out=2025-10-21)
+  • 2025-10-29 → 2025-10-30  (https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-29&check_out=2025-10-30)
+  • 2025-10-31 → 2025-10-31  (https://www.airbnb.com/rooms/841444949344078443?check_in=2025-10-31&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 19 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/841459626649520263?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-15 → 2025-10-16  (https://www.airbnb.com/rooms/841459626649520263?check_in=2025-10-15&check_out=2025-10-16)
+  • 2025-10-22 → 2025-10-23  (https://www.airbnb.com/rooms/841459626649520263?check_in=2025-10-22&check_out=2025-10-23)
+  • 2025-10-27 → 2025-10-31  (https://www.airbnb.com/rooms/841459626649520263?check_in=2025-10-27&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 23 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-09 → 2025-10-10  (https://www.airbnb.com/rooms/1234208300595681725?check_in=2025-10-09&check_out=2025-10-10)
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/1234208300595681725?check_in=2025-10-13&check_out=2025-10-14)
+
+Unit 24 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-10 → 2025-10-11  (https://www.airbnb.com/rooms/1477787339981568921?check_in=2025-10-10&check_out=2025-10-11)
+  • 2025-10-12 → 2025-10-20  (https://www.airbnb.com/rooms/1477787339981568921?check_in=2025-10-12&check_out=2025-10-20)
+  • 2025-10-21 → 2025-10-31  (https://www.airbnb.com/rooms/1477787339981568921?check_in=2025-10-21&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 25 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-09 → 2025-10-10  (https://www.airbnb.com/rooms/1477799005376636955?check_in=2025-10-09&check_out=2025-10-10)
+  • 2025-10-13 → 2025-10-31  (https://www.airbnb.com/rooms/1477799005376636955?check_in=2025-10-13&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 26 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-13 → 2025-10-17  (https://www.airbnb.com/rooms/1477804151840607052?check_in=2025-10-13&check_out=2025-10-17)
+  • 2025-10-18 → 2025-10-24  (https://www.airbnb.com/rooms/1477804151840607052?check_in=2025-10-18&check_out=2025-10-24)
+  • 2025-10-26 → 2025-10-31  (https://www.airbnb.com/rooms/1477804151840607052?check_in=2025-10-26&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Unit 27 Maui Ohana Modern Studio (2025-10-09 → 2025-10-31):
+  • 2025-10-13 → 2025-10-14  (https://www.airbnb.com/rooms/1477808444041599408?check_in=2025-10-13&check_out=2025-10-14)
+  • 2025-10-15 → 2025-10-19  (https://www.airbnb.com/rooms/1477808444041599408?check_in=2025-10-15&check_out=2025-10-19)
+  • 2025-10-20 → 2025-10-31  (https://www.airbnb.com/rooms/1477808444041599408?check_in=2025-10-20&check_out=2025-10-31)
+  • End date available to start: 2025-10-31
+
+Best,
+Your Availability Bot
