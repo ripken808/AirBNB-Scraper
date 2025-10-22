@@ -7,9 +7,9 @@ Scrapes a list of AirBNB rentals for availability
 
 ## Docker Run (manual run: 14 days):
 *docker run --rm -it \
--v "$(pwd)/out:/out" \
-airbnb-scraper \
-/bin/sh -c "python /app/AirBNBScraper.py --start $(date +%F) --days 14 --headless true"*
+  -v "$(pwd)/out:/out" \
+  airbnb-scraper \
+  /bin/sh -c "python /app/AirBNBScraper.py --start $(date +%F) --days 14 --headless true"*
 
 ## Docker Run (manual run: till the end of the month):
 *docker run --rm -it -v "$(pwd)/out:/out" airbnb-scraper \
